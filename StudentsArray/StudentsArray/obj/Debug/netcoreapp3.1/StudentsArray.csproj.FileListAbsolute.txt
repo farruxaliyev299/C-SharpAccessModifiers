@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Code Academy\Access Modifier\StudentsArray\StudentsArray\bin\Debug\netcoreapp3.1\StudentsArray.exe
+C:\Users\DELL\Desktop\Code Academy\Access Modifier\StudentsArray\StudentsArray\bin\Debug\netcoreapp3.1\StudentsArray.deps.json
+C:\Users\DELL\Desktop\Code Academy\Access Modifier\StudentsArray\StudentsArray\bin\Debug\netcoreapp3.1\StudentsArray.runtimeconfig.json
+C:\Users\DELL\Desktop\Code Academy\Access Modifier\StudentsArray\StudentsArray\bin\Debug\netcoreapp3.1\StudentsArray.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Code Academy\Access Modifier\StudentsArray\StudentsArray\bin\Debug\netcoreapp3.1\StudentsArray.dll
+C:\Users\DELL\Desktop\Code Academy\Access Modifier\StudentsArray\StudentsArray\bin\Debug\netcoreapp3.1\StudentsArray.pdb
+C:\Users\DELL\Desktop\Code Academy\Access Modifier\StudentsArray\StudentsArray\obj\Debug\netcoreapp3.1\StudentsArray.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Code Academy\Access Modifier\StudentsArray\StudentsArray\obj\Debug\netcoreapp3.1\StudentsArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Code Academy\Access Modifier\StudentsArray\StudentsArray\obj\Debug\netcoreapp3.1\StudentsArray.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Code Academy\Access Modifier\StudentsArray\StudentsArray\obj\Debug\netcoreapp3.1\StudentsArray.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Code Academy\Access Modifier\StudentsArray\StudentsArray\obj\Debug\netcoreapp3.1\StudentsArray.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Code Academy\Access Modifier\StudentsArray\StudentsArray\obj\Debug\netcoreapp3.1\StudentsArray.dll
+C:\Users\DELL\Desktop\Code Academy\Access Modifier\StudentsArray\StudentsArray\obj\Debug\netcoreapp3.1\StudentsArray.pdb
+C:\Users\DELL\Desktop\Code Academy\Access Modifier\StudentsArray\StudentsArray\obj\Debug\netcoreapp3.1\StudentsArray.genruntimeconfig.cache
