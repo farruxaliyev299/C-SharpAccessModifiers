@@ -7,7 +7,8 @@ namespace StudentsArray.Models
     internal class Student
     {
         public static int Serial = 1;
-        private int _id;
+        public int Id;
+
         public string Name;
         public string Surname;
         public int Age;
@@ -26,14 +27,14 @@ namespace StudentsArray.Models
             Age = age;
             Point = point;
 
-            this._id = Serial++;
+            this.Id = Serial++;
             
             
         }
 
         public string ShowInfo()
         {
-            return $"ID: {_id}\nName: {Name}\nSurname: {Surname}\nAge: {Age}\nPoint: {Point}\n\n";
+            return $"ID: {Id}\nName: {Name}\nSurname: {Surname}\nAge: {Age}\nPoint: {Point}\n\n";
         }
 
 

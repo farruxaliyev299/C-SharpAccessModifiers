@@ -34,7 +34,7 @@ namespace StudentsArray.Models
 
             for (int j = 0; j < Students.Length; j++)
             {
-                Console.WriteLine($"Student Info:\nGroup: {GroupName}\nName: {Students[j].Name}\nSurname: {Students[j].Surname}\nAge: {Students[j].Age}\nPoint: {Students[j].Point}\n\n"); 
+                Console.WriteLine($"Student Info:\nGroup: {GroupName}\nID: {Students[j].Id}\nName: {Students[j].Name}\nSurname: {Students[j].Surname}\nAge: {Students[j].Age}\nPoint: {Students[j].Point}\n\n"); 
             }
         }
 

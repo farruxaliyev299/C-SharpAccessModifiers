@@ -25,6 +25,9 @@ namespace StudentsArray
             group1.AddStudents(student5);
 
 
+
+
+
             group1.Sort(); //Group da olan Students arrayini sort edib qaytarir (azdan , cox-a)
 
             group1.GetAllStudents(); //Group da Students arrayinde olan studentlerin informasiyasini output edir.
